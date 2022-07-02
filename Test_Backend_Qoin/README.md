@@ -1,0 +1,1 @@
+Program berjalan hanya sekali permainan saja Dikarenakan menggunakan fungsi loop For saja, Seharushnya jika menggunakan while program dapat dieksekusi secara maksimal. Tetapi pada golang sendiri fungsi lopping hanya bisa menggunakan for yang dimana pengguananya kurang cocok untuk menjalankan program yang diberikan dan beres secara maksimal
